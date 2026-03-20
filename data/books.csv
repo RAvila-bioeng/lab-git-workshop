@@ -1,0 +1,51 @@
+title,author,year,genre,rating,pages,language,country
+1984,George Orwell,1949,Dystopian,4.17,328,English,United Kingdom
+The Hobbit,J.R.R. Tolkien,1937,Fantasy,4.28,310,English,United Kingdom
+Pride and Prejudice,Jane Austen,1813,Romance,4.25,432,English,United Kingdom
+Dune,Frank Herbert,1965,Science Fiction,4.26,688,English,United States
+To Kill a Mockingbird,Harper Lee,1960,Fiction,4.27,336,English,United States
+Brave New World,Aldous Huxley,1932,Dystopian,3.99,311,English,United Kingdom
+The Catcher in the Rye,J.D. Salinger,1951,Fiction,3.81,277,English,United States
+Moby-Dick,Herman Melville,1851,Adventure,3.51,654,English,United States
+Jane Eyre,Charlotte Bronte,1847,Romance,4.13,532,English,United Kingdom
+The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,3.93,180,English,United States
+War and Peace,Leo Tolstoy,1869,Historical Fiction,4.11,1225,Russian,Russia
+Crime and Punishment,Fyodor Dostoevsky,1866,Classic,4.24,671,Russian,Russia
+The Brothers Karamazov,Fyodor Dostoevsky,1880,Classic,4.36,796,Russian,Russia
+Wuthering Heights,Emily Bronte,1847,Romance,3.86,342,English,United Kingdom
+Frankenstein,Mary Shelley,1818,Gothic,3.82,280,English,United Kingdom
+Dracula,Bram Stoker,1897,Horror,4.02,418,English,Ireland
+The Odyssey,Homer,-700,Epic,3.77,541,Ancient Greek,Greece
+The Iliad,Homer,-750,Epic,3.87,683,Ancient Greek,Greece
+Animal Farm,George Orwell,1945,Political Satire,3.98,112,English,United Kingdom
+Lord of the Flies,William Golding,1954,Fiction,3.69,224,English,United Kingdom
+The Alchemist,Paulo Coelho,1988,Fiction,3.87,197,Portuguese,Brazil
+The Little Prince,Antoine de Saint-Exupery,1943,Fable,4.31,96,French,France
+The Book Thief,Markus Zusak,2005,Historical Fiction,4.39,552,English,Australia
+The Kite Runner,Khaled Hosseini,2003,Fiction,4.31,371,English,Afghanistan
+A Thousand Splendid Suns,Khaled Hosseini,2007,Fiction,4.42,432,English,Afghanistan
+The Da Vinci Code,Dan Brown,2003,Thriller,3.69,689,English,United States
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy,4.47,309,English,United Kingdom
+Harry Potter and the Chamber of Secrets,J.K. Rowling,1998,Fantasy,4.43,341,English,United Kingdom
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,1999,Fantasy,4.57,435,English,United Kingdom
+The Hunger Games,Suzanne Collins,2008,Dystopian,4.33,374,English,United States
+Catching Fire,Suzanne Collins,2009,Dystopian,4.30,391,English,United States
+Mockingjay,Suzanne Collins,2010,Dystopian,4.03,390,English,United States
+The Fault in Our Stars,John Green,2012,Young Adult,4.11,313,English,United States
+Looking for Alaska,John Green,2005,Young Adult,4.02,221,English,United States
+The Chronicles of Narnia,C.S. Lewis,1956,Fantasy,4.27,767,English,United Kingdom
+The Lion the Witch and the Wardrobe,C.S. Lewis,1950,Fantasy,4.21,206,English,United Kingdom
+The Name of the Rose,Umberto Eco,1980,Historical Mystery,4.19,502,Italian,Italy
+The Shadow of the Wind,Carlos Ruiz Zafon,2001,Mystery,4.26,487,Spanish,Spain
+Don Quixote,Miguel de Cervantes,1605,Classic,3.91,1072,Spanish,Spain
+One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,Magical Realism,4.07,417,Spanish,Colombia
+Love in the Time of Cholera,Gabriel Garcia Marquez,1985,Romance,3.90,368,Spanish,Colombia
+The Stranger,Albert Camus,1942,Philosophical Fiction,3.99,123,French,France
+The Plague,Albert Camus,1947,Philosophical Fiction,3.98,308,French,France
+Fahrenheit 451,Ray Bradbury,1953,Dystopian,3.98,256,English,United States
+Slaughterhouse-Five,Kurt Vonnegut,1969,Science Fiction,4.07,275,English,United States
+The Road,Cormac McCarthy,2006,Post-Apocalyptic,4.01,287,English,United States
+Life of Pi,Yann Martel,2001,Adventure,3.91,460,English,Canada
+The Handmaid's Tale,Margaret Atwood,1985,Dystopian,4.11,311,English,Canada
+The Picture of Dorian Gray,Oscar Wilde,1890,Classic,4.07,254,English,Ireland
+Les Miserables,Victor Hugo,1862,Historical Fiction,4.21,1463,French,France
